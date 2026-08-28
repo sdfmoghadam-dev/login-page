@@ -18,4 +18,4 @@ A simple and responsive login page designed for a toy store using basic web tech
 2. Open `index.html` in your browser.
 
 ## 📷 Preview
-![Preview](Screenshot .png)
+![Preview](Screenshot.png)
